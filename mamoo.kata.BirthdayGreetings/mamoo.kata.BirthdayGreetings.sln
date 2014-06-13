@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mamoo.Kata.BirthdayGreetings", "mamoo.kata.BirthdayGreetings\Mamoo.Kata.BirthdayGreetings.csproj", "{B1DF768C-F34E-46E2-904E-A1DDB49330C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mamoo.Kata.BirthdayGreetings.Tests", "Mamoo.Kata.BirthdayGreetings.Tests\Mamoo.Kata.BirthdayGreetings.Tests.csproj", "{F951DF17-8BC9-4C7E-A705-D6EEADB30983}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1DF768C-F34E-46E2-904E-A1DDB49330C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1DF768C-F34E-46E2-904E-A1DDB49330C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1DF768C-F34E-46E2-904E-A1DDB49330C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1DF768C-F34E-46E2-904E-A1DDB49330C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F951DF17-8BC9-4C7E-A705-D6EEADB30983}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F951DF17-8BC9-4C7E-A705-D6EEADB30983}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F951DF17-8BC9-4C7E-A705-D6EEADB30983}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F951DF17-8BC9-4C7E-A705-D6EEADB30983}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

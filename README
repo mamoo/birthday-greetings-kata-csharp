@@ -1,0 +1,6 @@
+Birthday Greetings Kata in C#
+-----------------------------
+This is a porting to C# of the BirthdayGreetings Kata of Matteo Vaccari.
+The exercise that is meant to teach something about dependency inversion and dependency injection.
+
+The documentation [can be found here](http://matteo.vaccari.name/blog/archives/154).
